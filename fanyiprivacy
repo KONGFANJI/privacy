@@ -1,0 +1,332 @@
+English Translation APP Privacy Policy
+This Privacy Policy was updated on July 30, 2021 and will become effective on July 31, 2021.
+preface
+Welcome to the English translation app.
+We (hereinafter referred to as "we") take the protection of your personal information and privacy very seriously. Before using our products and services, please be sure to read and fully understand the English translation APP privacy policy (hereinafter referred to as "this policy").
+Minors under the age of 18 must read this policy accompanied by their guardians, and ensure that they have obtained the explicit consent of their guardians before using our services and providing your personal information.
+If you use our services, it means that you or your guardian have understood this policy and agree to the collection and use of your personal information in accordance with this policy.
+This policy will help you understand the following:
+1. What information we collect and how we use it
+2. Use of Cookies and Similar Technologies
+3. Sharing information (cooperation sdk and related permissions)
+4. Transfer information
+V. Information disclosure
+6. Processing, storage period and destruction method of personal information
+7. How we protect your personal information
+8. Modification of personal information, withdrawal of authorization and account cancellation
+9. Information on minors under the age of 18
+10. Change
+11. Applicable Law and Jurisdiction
+12. Contact us
+13. Appendix - Permission Application, Purpose of Use and Business Scenario
+1. What information we collect and how we use it
+(1) Information you actively provide when using our services
+When you use the English translation APP and related services, you can set the account and name of the English translation APP, and you can also perform identity verification by providing the mobile phone number and the matching result of the verification code. We collect this information to provide you with account login services and to protect your account security and prevent security risks. Please be aware that the matching result of your mobile phone number and verification code is personal communication information, please consider carefully before deciding whether to provide it. If you only need the basic functions and services of text translation, you do not need to set up an account and provide the above information.
+(2) Information obtained indirectly from third parties
+You can also log in with an account of a third-party platform (for example: WeChat/QQ/Weibo account). If you log in with an account of a third-party platform, we will obtain the relevant information under the third-party account according to your authorization ( Including: username, nickname, subject to your authorization) and authentication information (personal sensitive information). If you refuse to authorize such information, you will not be able to log in to our platform with the account of the third-party platform, but it will not affect the normal use of other functions and services we provide you.
+(3) Equipment information
+1. In order to ensure the safe operation of our services, protect your information security, troubleshoot product failures, record statistical data about service usage, and perform statistical analysis required to optimize services, we will collect your device model, unique device identification code, IP address, network device hardware address (MAC), software version number, Bluetooth (SDK only), WLAN connection, operation logs and other information. This information is the basic information that we must collect to provide services and ensure the normal operation of our products. When we collect and use the above information, we de-identify it. Data analysis only corresponds to specific codes that cannot be directly associated with the user's identity, and cannot and will never be associated with your real identity.
+2. For users of the Android system, in order to normally read the device identification number and ensure that you can normally save pictures, videos or cached information to the mobile phone for use, we will apply to the system for "reading the mobile phone status and identity, enabling writing to external Memory Card Permissions". We will ask for your consent before applying, and you can choose to "allow" or "forbid" permission to apply; you can choose to turn off some or all of the permissions in the device's settings, thereby refusing to collect the corresponding personal information.
+(4) Location information
+When you use a sticker that displays positioning information, we will request your authorization to access the exact location information (use GPS and network for positioning), which is the permission required by the Pangolin SDK and Umeng SDK, user-targeted advertising and data statistics The function requires exact location information. This is a non-essential permission, and you can refuse the authorization when applying.
+(5) Personal information based on normal use of functions and services
+1. Core functions: When you use Translator, we will need to obtain full network access rights. In order to achieve user login, user information synchronization and other functions, we need to obtain this permission. This is a necessary permission. Unauthorized application will affect the normal use of the translation function.
+2. Push service: In order to help you better understand our latest advertisements and activity information, we will push activity information to your mobile phone. However, if you do not want to receive such information from us, you can choose to reject the push in the settings of your mobile phone system
+3 Customer service: When you file a complaint, consultation or appeal with us, in order to facilitate contact with you or help you solve problems, we may require you to provide personal information such as name, mobile phone number, email and other valid contact information. If you refuse to authorize the relevant permissions and provide the above information, we may not be able to timely feedback the relevant processing results to you. In order to better let you understand our products and services, we may conduct relevant questionnaires to you. The questionnaire data is only used for our statistical summary, optimization of operations, and improvement of user experience, and we will not disclose your personal information.
+4. Statistical data: When you use the login, registration and translation functions of the English translation APP, we will collect the data generated by these behaviors and report them to the server. We collect this information in order to have a more comprehensive understanding of the operation of the English translation app and help us make further improvements.
+2. Use of Cookies and Similar Technologies
+(1) About cookies and similar technologies
+Cookies are small files containing strings of characters that are sent and stored (usually encrypted) on your computer, mobile device or other device when you log in and use a website or other web content. Cookie-like technologies are other technologies that can be used for similar purposes as cookies, such as Web Beacon, Proxy, embedded script, etc.
+(2) How we use cookies and similar technologies
+When you use the functions and services of the English translation app, we may use cookies and similar technologies to send one or more cookies or anonymous identifiers to your device to collect and store information when you access, use the functions and services. We use cookies and similar technologies mainly for the necessity of your use of our functions and services, to simplify the steps of your repeated operations (such as registration, login), to facilitate you to view your usage history, and to provide you with service content that is more suitable for your personal needs and you. Content that may be more interesting, protect your information and account security, improve our products and services, etc.
+We promise that we will not use cookies for any other purpose than those described in this Privacy Policy.
+3. Sharing information
+We will not share your personal information with any company, organization or individual, except in the following cases: (1) Sharing with explicit consent: After obtaining your explicit consent, we will share your personal information with other parties . (2) Sharing under statutory conditions: We may share your personal information externally in accordance with the provisions of laws and regulations, the need for litigation and dispute resolution, and the mandatory requirements of the competent government departments or judicial authorities in accordance with the law. (3) To the extent required or permitted by law, it is necessary to provide your personal information to third parties in order to protect the English translation APP and the interests, property or safety of users or the public from damage. (IV) Sharing with third-party partners
+In order to enable you to receive information pushes, share information on third-party platforms, and enable us to provide better services and user experience by analyzing user behavior. The English translation APP has access to third-party partners. The above-mentioned partners include some mobile phone manufacturers using the Android system and the third-party data analysis platform Youmeng SDK, advertising service platform Youlianghui SDK and Pangolin SDK. In order to provide you with services, third-party partners may call some permissions to collect your personal information to achieve functions. The types of permissions called by the third party may include obtaining your location information, reading external memory cards, and writing external storage. card, read your phone status and identity, view Wi-Fi connections, retrieve running apps. We will treat your information with a high degree of diligence, carefully evaluate the purpose of third-party collection and use of information, and conduct strict security monitoring on the SDK (software tool development kit) used by third parties to obtain information to ensure data security.
+Our partners include the following types:
+ 
+1. Advertising service partners
+On the premise of compliance with relevant laws and regulations, we may allow third-party advertisers of this service to collect users' advertising identification information. Third-party SDK names: Tencent Youlianghui SDK and Pangolin SDK, usage scenario description: advertisement push, type of personal information shared: device information, unique device identification code, latitude and longitude. We will de-identify the shared information, and we will not share your personal sensitive information with partners.
+ 
+2. Technical support partners
+Partners who provide us with technical support will collect relevant personal information from our users to implement the services they support, and Umeng, a partner that provides analysis services, will collect information from our users based on their information security rules to complete de-identification processing. personal information to help us count and analyze data and evaluate the effectiveness of promotion.
+ 
+3. The relevant information collected by technical support partners is as follows:
+ 
+Third-party SDK name: Umeng
+Affiliated company: Youmeng Tongxin (Beijing) Technology Co., Ltd.
+Information acquisition: unique device identification code (IMEI/Mac/android ID/IDFA/OPENUDID/GUID, SIM card IMSI information)
+Permission grant method:
+1. The network status (INTERNET, ACCESS_WIFI_STATE, ACCESS_NETWORK_STATE) is automatically obtained by the App
+2. The rest are granted by the user voluntarily
+Purpose of use: new users, active statistics
+Function and service: Obtain the IMEI of the user equipment, and uniquely identify the user through the IMEI in order to provide services. By obtaining location information, the anti-fraud function is realized, and fraudulent devices are eliminated; at the same time, the geographical distribution data of users is corrected to make the report data more accurate.
+Privacy agreement link or sdk url: https://www.umeng.com/page/policy
+ 
+Third-party SDK name: Youlianghui (Tencent Guangdiantong)
+Affiliated company: Shenzhen Tencent Computer System Co., Ltd.
+Information acquisition: unique device identification code (IMEI/Mac/android ID/IDFA/OPENUDID/GUID, SIM card IMSI information), wireless network SSID name, WIFI router MAC address, device brand model, software system version information, operator information, Device time zone, modify/delete SD card content (WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE)
+Permission grant method:
+1. The network status (INTERNET, ACCESS_WIFI_STATE, ACCESS_NETWORK_STATE) is automatically obtained by the App
+2. The rest are granted by the user voluntarily
+Purpose of use: advertising cooperation, advertising attribution, anti-fraud
+Functions and services: By obtaining the IMEI and location information of the user device, assist the advertising platform to realize the anti-fraud function, eliminate the preloading of the fraudulent device advertisement images and text content, save it locally and read it for use
+Privacy agreement link or sdk url: https://www.tencent.com/zh-cn/privacy-policy.html
+ 
+Third-party SDK name: Pangolin (ByteDance)
+Affiliated company: Beijing Giant Engine Network Technology Co., Ltd.
+Information acquisition: unique device identification code (IMEI/Mac/android ID/IDFA/OPENUDID/GUID, SIM card IMSI information), wireless network SSID name, WIFI router MAC address, device brand model, software system version information, operator information, Device time zone, modify/delete SD card content (WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE), declare package visibility (QUERY_ALL_PACKAGES)
+Permission grant method:
+1. Network status (INTERNET, ACCESS_WIFI_STATE, ACCESS_NETWORK_STATE), QUERY_ALL_PACKAGES are automatically obtained by the App
+2. The rest are granted by the user voluntarily
+Purpose of use: advertising cooperation, advertising attribution, anti-fraud
+Functions and services: By obtaining the IMEI and location information of the user device, assist the advertising platform to realize the anti-fraud function, eliminate the preloading of the fraudulent device advertisement images and text content, save it locally and read it for use
+Privacy agreement link or sdk url: https://www.pangle.cn/privacy/partner
+ 
+Third-party SDK name: Baidu Translate
+Affiliated company: Beijing Baidu Netcom Technology Co., Ltd.
+Information acquisition: access network, access Wi-Fi status
+Permission grant method: App automatically obtains
+Purpose of use: photo translation
+Functions and Services: Identify pictures online and return translation results
+Privacy agreement link or sdk url: https://ai.baidu.com/ai-doc/REFERENCE/Qkdykq1r
+ 
+Third-party SDK name: Android Support Library Compat
+Company: Google
+Access to information: none
+Permission grant method: none
+Purpose of use: APP framework support library
+Functions and services: support libraries for implementing the basic UI of the app
+Privacy agreement link or sdk url: https://policies.google.cn/privacy
+ 
+Third-party SDK name: Lingochamp FileDownloader
+Company: Google
+Information acquisition: modify/delete the content in the SD card (WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE)
+Permission granting method: user actively grants
+Purpose of use: file download
+Functions and services: user avatars and information stored on the server
+Load to local
+Privacy agreement link or sdk url: https://policies.google.cn/privacy
+ 
+Third-party SDK name: com.github.LuckSiege.PictureSelector
+Affiliated company: personal open source
+Information acquisition: modify/delete the content in the SD card (WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE)
+Permission granting method: user actively grants
+Purpose of use: use album pictures
+Features and Services: Change User Avatar
+Privacy agreement link or sdk url: https://docs.github.com/en/github/site-policy/github-privacy-statement
+ 
+4. Transfer information
+We will not transfer your personal information to any third party. With the continuous development of our business and the improvement of functions and services, your personal information may be transferred. When the aforementioned changes occur, we will inform you in advance of the transferee's information and the entrusted business content.
+V. Information disclosure
+In principle, we will not publicly disclose your personal information without your prior consent. However, we may disclose your personal information for the following purposes:
+Comply with applicable laws and regulations and other relevant regulations;
+to comply with court judgments, rulings or other legal proceedings;
+To comply with the requirements of relevant government agencies or other legally authorized organizations;
+There are reasons to believe that it is necessary to comply with relevant regulations such as laws and regulations;
+Reasonable and necessary purposes for the implementation of relevant service agreements or this policy, the maintenance of social and public interests, and the protection of the personal and property safety of our customers, us or our affiliates, other you or employees, or other legitimate rights and interests.
+Personal information access and correction: You can access and correct the nickname in your account through [Personal Homepage] - [Account Information] - [Delete Account].
+Turn off notifications: You can turn off notifications through […]-[Settings]-[Account Settings]-[Notifications].
+Account information access and correction: You can access or change your bound mobile phone number, third-party account binding and other information through […]-[Settings]-[Account Settings].
+You may request us to delete personal information in the following circumstances:
+If our processing of personal information violates laws and regulations;
+If we collect and use your personal information without your consent;
+If our processing of personal information violates our agreement with you;
+If you no longer use our products or services, or you cancel your English translation APP account;
+If you no longer use our products or services, or you cancel your English translation APP account;
+6. Processing, storage period and destruction method of personal information
+(1) Location where information is stored We store your personal information collected and generated during domestic operations in the territory of the People's Republic of China in accordance with laws and regulations. (2) Period of storage of information In principle, we only retain your personal information for the shortest time necessary to achieve the purpose, and we will delete and destroy the personal information beyond the necessary period immediately. or otherwise provided by laws and regulations. If we transfer personal information to a third party, we will notify the third party to destroy it immediately. (3) Destruction method Printed paper personal information will be destroyed by a shredder, and personal information saved in the form of electronic files will be permanently deleted by irreversible technical methods.
+7. How we protect your personal information
+We attach great importance to the security of your personal information. To protect your personal information, we take the following measures: (1) We will use encryption technology to collect the password you set to ensure the confidentiality of the data. (2) We use security protection mechanisms to prevent your personal information from being leaked or damaged due to hacker attacks, computer viruses, etc. We will take all reasonable and feasible technical measures to establish a more complete security mechanism to protect your personal information. (3) We control the number of employees who handle personal information to a minimum, and train employees on data security awareness and security capabilities. We will strictly abide by the internal management system and relevant laws and regulations.
+8. Modification of personal information, withdrawal of authorization and account cancellation
+(1) Access, delete and correct your personal information
+Once the above deletion request is responded to, we will also try our best to notify the subjects who obtained your personal information from the English translation APP and require them to delete the corresponding information in a timely manner, unless otherwise stipulated by laws and regulations, or these subjects have obtained your independent authorization. When you delete information from our services, we may not delete the corresponding information from the backup system immediately, and we will delete or anonymize the information when the backup is updated.
+(2) Withdraw your authorization
+You can contact us at any time if you wish to withdraw your consent to our collection, use and disclosure of your other personal information or if you would like us to correct or delete your personal information. Contact: 2735962952@qq.com. We will process your request and stop collecting, using and disclosing your personal information within a reasonable time after receiving your email. Please understand and agree that when you withdraw certain authorizations, the related product functions will be unavailable, and we cannot continue to provide you with specific functions and/or services corresponding to the withdrawn consent or authorization, and you withdraw the authorization. The decision will not affect previous processing of personal information based on your authorization.
+(3) Cancellation of account
+You can cancel your account through [Settings] - [Account Information] - [Delete Account]. We will provide you with account cancellation service after verifying your identity and sending you a cancellation confirmation. After you log out successfully, we will remove all relevant data and delete or anonymize your personal information in accordance with relevant legal requirements. Please know and understand that when you cancel your account, we cannot continue to provide you with certain features and/or services.
+Time limit for cancellation: After you submit the cancellation application, we will review and cancel your account within 24 hours.
+9. Information on minors under the age of 18
+If you are a minor under the age of 18, we will not intentionally collect the above content, please do not authorize us when you use certain functions.
+Considering that we cannot identify the age of network visitors, if a minor under the age of 18 has provided us with personal data without the consent of their parents or guardians, their parents or guardians can send an email to 2735962952@qq. com, or call 13336111533, or contact us through customer service (official QQ: 2735962952) to remove such information.
+We do not intend and do not attempt to collect information from minors under the age of 18.
+10. Change
+We may revise or update this policy from time to time in accordance with business adjustments, changes in laws, regulations or policies, please check regularly as prompted. We will notify you by means of prompting in a prominent position on the page or sending you an email before the change takes effect. Please read the updated privacy policy carefully. If you do not agree with the revised privacy policy, you have the right to modify your personal information or stop using the English translation app immediately.
+11. Applicable Law and Jurisdiction
+The interpretation and dispute resolution of this policy shall be governed by the laws of the mainland of the People's Republic of China.
+Any disputes related to this policy shall be settled amicably by both parties through negotiation; if they cannot be settled through negotiation, either party may submit the relevant disputes to the competent people's court where the defendant is located.
+13. Appendix - Permission Application, Purpose of Use and Business Scenario
+ 
+The list of permissions obtained by this application is as follows:
+1. View the wifi status and obtain full network access (INTERNET). In order to realize the functions of loading the latest privacy policy from the server to the local, user login, user information recording, synchronization and other functions, we need to obtain the network access. At the same time, the function of saving data requires network access permission, and you need to view the WiFi connection permission. This is a necessary permission. Unauthorized application will affect the information record synchronization function.
+2. Read, modify and delete the contents of the memory card (WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE), mainly used to read user information; this permission is also required to realize the function of selecting album pictures to modify avatars. This is a necessary permission. Unauthorized application will affect the function of selecting photos from local for translation and avatar replacement.
+3. Obtain the unique device identification code (IMEI/Mac/android ID/IDFA/OPENUDID/GUID) of the user's device, which is mainly used for the Umeng SDK to count new and active users. At the same time, the Pangolin SDK and Youlianghui SDK need this permission to realize the functions of advertising attribution and eliminating cheating devices. This is a non-essential permission, and you can refuse the authorization when applying.
+4. Access to exact location information (using GPS and network for positioning), permissions required by Pangolin SDK and Youlianghui SDK, identifying the preferred location for advertisements, and strengthening security requires exact location information. This is a non-essential permission, and you can refuse the authorization when applying.
+5. Access the approximate location information (use the network for positioning), which is used for the Umeng SDK to realize the anti-fraud function, and to correct the user's geographical distribution data to make the report data more accurate. At the same time, the Pangolin SDK and Youlianghui SDK also need this permission to realize advertising cooperation, preloading advertising images and text content, saving them locally and reading them for use. This is a non-essential permission, and you can refuse the authorization when applying.
+6. Read the call status and mobile network information. In order to achieve perfect UI adaptation and avoid button drift and incomplete display affecting your experience, we need to obtain your device information. This is a necessary permission. Unauthorized application will affect UI adaptation.
+7. Camera, the user can choose to take a photo to upload the content to be translated when translating, and the user can choose to take a photo when changing the avatar. The replacement also requires the camera permission. In order to realize this function, the camera permission is required. This is a necessary permission. Unauthorized application will affect the photo translation function.
+8. To record audio, users can use the voice input function to achieve content translation. To achieve this function, you need to obtain the permission to use the microphone. This is a necessary permission. Unauthorized application will affect the voice translation function.
+9. Read the list of installed application software. This permission is required to achieve software update push. At the same time, Pangolin will use this permission to determine whether the application corresponding to the advertisement is installed on the user's app on the Android R system, so as to avoid placing wrong advertisements. This improves the user's ad experience (QUERY_ALL_PACKAGES). This is a non-essential permission, and you can refuse the authorization when applying.
+ 
+"Deny permission application and don't ask again" guide: When refusing to grant relevant permissions, some Android systems only provide a "Deny" button when the permission application pops up for the first time. Ask" button. If you want to use the "Reject and don't ask again" button for the first pop-up window, you need to enter the system settings function to perform personalized settings (this is a system function).
+ 
+
+English translation APP user agreement
+
+
+
+Version of the Agreement and Effective Date
+Effective date: September 22, 2020
+Last update and release date: September 22, 2020 (replaces previous version)
+
+
+important hint:
+The "English Translation APP User Agreement" (hereinafter referred to as "this Agreement") is signed by our Network Technology Co., Ltd. and its affiliates (hereinafter referred to as "we" or "us") and you (hereinafter referred to as "user"). Once entered into, this Agreement will have contractual effect between you and us. We solemnly remind you that you should carefully read and fully understand all the terms of this agreement, especially the content marked in bold. When you tick or click "agree" to this agreement, you are deemed to have read and agreed to be bound by this agreement. If you do not agree to this agreement, please stop registering or using our services immediately.
+
+
+1. General
+1. The English translation APP is a tool operated by us to provide you with services such as document scanning, identification, management, etc. The specific service types include but are not limited to our website, English translation APP, and English translation APP application programming interface (API) for calling. ) or English translation APP application software development kit (SDK).
+2. We have the right to amend this Agreement in a timely manner in accordance with laws and regulations, national standards and the needs of business operations. If this agreement is changed, we will publish the updated agreement in the English translation APP. Such changes shall not be regarded as our breach of this agreement. If you continue to use the English translation app after the modification of this agreement, it means that you have fully read, understood and agreed to the revised agreement, and are willing to be bound by the revised agreement; if you do not agree with the revised agreement, please stop using English immediately Translate APP.
+3. In addition to this Agreement, the agreements, service rules, policies, notices, etc. that we have released or may release in the future regarding the products or services we provide to you shall be regarded as supplementary agreements to this Agreement and shall be inseparable from this Agreement. It has the same legal effect as this Agreement. Please pay attention to and read the aforementioned supplementary agreement in time. If some or all of the terms of the relevant supplementary agreement are found to be invalid, it does not affect the validity of other agreements or terms of the agreement.
+4. If this agreement is inconsistent with the offline agreement signed by you and us or the electronic order generated by purchasing specific services (hereinafter referred to as "electronic order"), the offline agreement or electronic order shall prevail.
+
+
+2. Account registration
+1. You may need to register an account when using the English translation APP, or log in with a third-party account approved by us, otherwise we have the right to refuse to provide you with services.
+2. Account registration conditions:
+(1) If you are an adult (i.e. over 18 years old), legal person or other organization, you should have full capacity for civil conduct;
+(2) If you do not have full capacity for civil conduct, you should obtain the consent of your guardian in advance before registering and using the English translation APP. In particular, if you are a minor (that is, under the age of 18, the same below), you should also abide by the provisions of this agreement regarding the terms of use for minors.
+(3) If you do not meet any of the above conditions, please stop registering or using our services immediately, otherwise we have the right to suspend or terminate your user qualification at any time.
+3. Complete the registration:
+(1) You should provide true, complete and accurate information according to the prompts on the registration page. You may not use other people's information to register an account or provide us with other false information.
+(2) The ownership of the English translation APP account belongs to us. After you complete the application and registration, you only get the right to use the account.
+4. Information authenticity guarantee:
+(1) If it is found that you have fraudulently registered with false or untrue information, we have the right to take measures such as correcting within a time limit, deleting information, restricting or suspending use, freezing or canceling your account, and terminating the provision of some or all services to you without notice.
+(2) You should correct false information in a timely manner, update and improve your relevant information.
+(3) If youFailure to correct or update the information in a timely manner results in our inability to provide you with services as agreed in the agreement, or causes you to incur any loss during the use of our products or services, which shall be borne by you.
+(4) We are not responsible for the suspension or termination of services caused by the above reasons, and you should bear all adverse consequences. If any loss is caused to us, you shall bear the corresponding responsibility.
+
+
+3. Account security and usage specifications
+1. You should properly keep your account, password and other valid identification information. You shall be responsible for all losses caused by the leakage or loss of your account number, password or other valid identification information, or the theft or tampering of your account number and password due to your personal reasons. You are responsible for all actions taken by using your account and password, and we do not assume any responsibility.
+2. If you find that your account number and password have been fraudulently used or stolen by others, please notify us in an effective manner immediately and ask us to suspend the service. We will not be liable for your loss within a reasonable period of time to take action.
+3. You may not transfer, sell, rent, lend or share your account number, password and some or all of your account rights to others. If you transfer, sell, rent, lend or share your account number, password and some or all of your account rights to others, which infringes or may infringe our legitimate rights or other legitimate rights and interests such as personal information and privacy rights of third parties, we will The right to restrict, freeze, cancel your account, suspend or terminate the provision of some or all of the services under this agreement to you without notice, without any responsibility for this.
+4. Any information scanned, uploaded, made, shared or any actions taken through your account will be regarded as your own actions, and you should be fully responsible for all actions that occur under the account.
+5. Please update the mobile phone number or email information bound to the English translation APP account in a timely manner when you apply for cancellation of your mobile phone number or email address, or when your mobile phone number or email address is cancelled for other reasons. We are not responsible for any leakage of user data or damage to other personal rights due to your failure to update the mobile phone number or email information bound to the English translation APP account in a timely manner.
+
+
+4. Specifications for the use of software and services
+1. We grant you a non-transferable, revocable and non-exclusive license to use our software and services. Unless otherwise agreed in writing, you may only install, use, and run our software and services on corresponding terminal equipment for non-commercial purposes.
+2. You can obtain our software directly from our website or from a third party authorized by us. If you obtain our software or an installer with the same name as such software from a third party not authorized by us, we cannot guarantee the normal use of the software and will not be responsible for any loss caused to you.
+3. Please use the English translation APP correctly. If you use the English translation APP, you can refer to the content under the "Help" item of the English translation APP for specific functions and operation methods; if the content under the "Help" item of the English translation APP cannot be helped If you have any questions when you use our website, English translation APPAPI or SDK, you can contact us directly for necessary help: 1641339024@qq.com. The loss caused by your improper setup or operation shall be borne by you.
+4. You understand and agree that you shall not use the English translation APP to scan, upload, create, share, or disseminate information containing the following content:
+(1) Opposition to the basic principles established by the Constitution of the People's Republic of China;
+(2) Endangering national security, divulging state secrets, subverting state power, and undermining national unity;
+(3) Damage to national honor and interests;
+(4) Distorting, vilifying, blaspheming, denying the deeds and spirits of heroes and martyrs, insulting, slandering or otherwise infringing upon the names, portraits, reputation and honor of heroes and martyrs;
+(5) Advocating terrorism, extremism or inciting terrorist or extremist activities;
+(6) Inciting ethnic hatred, ethnic discrimination, or undermining ethnic unity;
+(7) Undermining the state's religious policy and promoting cults and feudal superstitions;
+(8) Spreading rumors and disrupting economic and social order;
+(9) Spreading obscenity, pornography, gambling, violence, murder, terror or instigating crimes;
+(10) Insulting or slandering others, infringing on their reputation, privacy and other legitimate rights and interests;
+(11) Other content prohibited by laws and administrative regulations.
+5. We have the right to, based on unilateral and independent judgment, restrict, freeze, cancel your account, suspend or cancel your account without notice when we believe that it may endanger national security, public safety, social and public interests, or the legitimate rights and interests of us or a third party. Terminate to provide you with some or all of the services under this Agreement, and delete your relevant data without any liability to you. Such situations include, but are not limited to:
+(1) The information you provide for registering an account is not authentic, complete or accurate, including but not limited to misappropriation of other people's certificate information for registration, etc.;
+(2) Transfer, sell, rent, lend or share the account to others for use;
+(3) Stealing or illegally accessing or misusing other user accounts or the information in the accounts;
+(4) Delete all copyright information of our products, reverse engineer, disassemble, decompile our products or services, or try to discover software source code in other ways;
+(5) Commercially copy, alter, modify, hook up and run our products, or create any derivative works or products, and use plug-ins, plug-ins or unauthorized tools to access, interfere with, or affect our products or services;
+(6) Restrict, prohibit or otherwise interfere with or affect the use of the English translation APP by others, or interfere with the normal operation of the network, such as publishing or transmitting any information or software of the following nature: containing worms, viruses or other harmful functions, or generating traffic levels that may prevent others from using, sending or retrieving information;
+(7) Access or attempt to access our products or services through web crawlers or other automated means, or violate robots.txt or similar files in our products or services;
+(8) Commercially use, rent, lend, copy, modify, link, reprint, compile, publish, publish, build mirror sites, etc. of our product or service-related information content and other data;
+(9) any actions performed in bad faith, or that may damage any ratings or reviews on our products or services, and any actions that may affect the integrity or accuracy of our products or services;
+(10) Infringes or may violate our or any third party's intellectual property rights, personal information, privacy rights or other legitimate rights and interests;
+(11) Engage in other acts that violate the law or this Agreement.
+6. Any content (including but not limited to document pictures, document information or other information, etc., hereinafter referred to as "content") sent or uploaded by you using the English translation APP, whether it is transmitted publicly or privately, is your responsibility and you guarantee You have the necessary authorization to upload the content, and must not infringe on the intellectual property rights, personal information, privacy rights and other legitimate rights and interests of others. If we suffer losses (including but not limited to damages, attorney fees) as a result of your actions, you agree to be fully responsible for the losses. We reserve the right to review, block, delete or terminate the service in accordance with the law.
+7. If you violate the law or any stipulation of this agreement in the process of using the English translation APP, and cause us, other users or any third party losses, you should be fully responsible, and we will not bear any responsibility for this.
+
+
+5. Member purchase and recharge rules
+1. Some of our products or services are provided for a fee, and you can only use them after you purchase or recharge. Before placing an order, please carefully confirm the order information such as the type of membership, service name, price, and quantity purchased.
+2. When you submit the order information and successfully pay the corresponding price, the sales contract between you and us regarding the product or service is established and takes effect. You and we have the right to cancel the order for this service before the contract is established and takes effect. Here you are reminded that the establishment and entry into force of the contract is the prerequisite for us to provide you with services such as membership rights, cloud storage space, fax services or translation services.
+3. We may modify and change the charging standards and methods of charging services according to actual needs. The prices of products or services we offer online are subject to change at any time, and we do not offer price protection or refunds for price reductions or promotions for products or services.
+4. Although we will try our best to ensure the accuracy of the prices of products or services displayed in the English translation APP, due to various factors such as system failures and human errors, the prices may be displayed abnormally. If the price of the product or service is abnormal due to the above circumstances, it is unfair for us to continue to perform the contract, we have the right to negotiate with you according to the specific situation, terminate the contract and return the price you have paid.
+5. The authorization/activation information (including but not limited to activation codes, passwords, etc.) contained in software products may be leaked for other users to open accounts. Such products are special commodities that are not applicable to no reason to return. If you need any consultation or help due to product quality or other problems, you can send an email to: 1641339024@qq.com.
+
+
+6. Information storage and synchronization
+1. You understand and agree that when using the English translation APP, the relevant information will be stored in your terminal device, occupying the storage space of your terminal device.
+2. You should choose whether to set a password when using this service to protect information security according to your needs.
+3. If you log in to your account and use the English translation APP, you agree that the imported information will be stored on our server. If you do not agree to store some or all of the imported information in our server, you can only import the information in the "private folder", and all the information in the "private folder" will only be stored in your terminal device .
+4. When you use the English translation APP in the logged-in state, if you directly modify the information in the terminal device, the information may be synchronized between the terminal device and the server according to the result of the last modification. When you temporarily use the service with a terminal device that is not owned by you, please log out in time, and pay attention to making necessary adjustments to your settings to avoid revealing your or others' personal information and privacy.
+5. If you accidentally delete the information in the terminal device account and the information is lost, you can visit the English translation APP website to log in to the account to restore your information, but we do not guarantee that you will be able to restore your information.
+6. Although we will take necessary measures to store your data in accordance with the law and protect it, we remind you that you should back up your data by other means, and we cannot be responsible for your unsuccessfully stored or self-deleted data.
+
+
+7. Account Cancellation
+1. If your account has the following circumstances, we have the right to cancel your account:
+(1) Your behavior violates the law or this agreement;
+(2) On the basis of legal provisions or the requirements of the competent authorities of the state;
+(3) After you register your account, you have not logged in to use your account for more than 9 consecutive months, and your account has no balance and no unexpired services or rights.
+2. If you apply to us for account cancellation, when your account meets the following conditions, the account can be cancelled after our review and approval:
+(1) The account is in a normal state, does not involve any disputes or controversies (including complaints and reports or is reported by complaints), and has not been restricted by the competent authorities;
+(2) There are no outstanding transactions in the account;
+(3) There are no other outstanding rights and obligations in the account (that is, there is no balance in the account and no unexpired services or rights and interests) or disputes arising from account cancellation;
+(4) Other circumstances that may affect account cancellation.
+3. If you need to cancel your account, you should send an email to 1641339024@qq.com to apply for cancellation, and it will be cancelled after our review and approval. After the account is cancelled, we will promptly notify you through your reserved email address, text message, etc.
+4. During the process of account cancellation, if your account is involved in disputes or disputes, including but not limited to complaints, reports, lawsuits, arbitrations, investigations by competent state authorities, etc., we have the right to suspend or terminate the cancellation procedure of your account without further notice. with your consent.
+5. You have fully understood and agreed that after the account is cancelled, you will no longer be able to continue to use the services we provide, and you will no longer have account-related rights. After the statutory period expires, the content or data related to the account will be deleted or anonymized and cannot be recovered.
+6. The inconvenience or adverse consequences caused by the cancellation of the account shall be borne by you.
+
+
+8. Data Protection
+We attach great importance to the protection of user information. The "English Translation APP Privacy Policy" presents how we will collect, use, store, share and protect your information. For details, please refer to the "English Translation APP Privacy Policy".
+
+
+9. Take your own risk
+1. We will try our best to ensure the correctness, continuity, timeliness and security of our services according to the current level of technology, but we are not aware of unexpected risks (such as computer viruses, Trojan horses or other malicious programs, hacker attacks, equipment , system, hardware software and communication line failures, natural disasters, etc.), product technical defects, service stability and any loss or damage arising therefrom shall not be guaranteed in any form, nor shall it be liable for any compensation, except as otherwise provided by law except.
+2. Our products or services may be updated from time to time, and you can choose whether to accept the update; if you choose not to update, we do not guarantee to provide you with the latest service, and you shall be responsible for any loss that may be caused thereby.
+3. To the extent permitted by applicable laws, we have the right to suspend, terminate, modify the service, or suspend, terminate, modify the service for some users at any time without prior notice.
+4. The English translation APP may contain links to third-party platforms or applications, application programming interfaces or software development kits. We provide such links only for your convenience. Any recommendation, support or authorization on behalf of us of such third parties, their products and services, should be done at your own discretion and risk. When you use any products and services of the above-mentioned third parties, you should understand and accept the terms and rules of such third parties.
+5. You are solely responsible for any loss or liability caused by your own reasons, and we are not responsible. Circumstances in which we are not responsible include, but are not limited to:
+(1) Any loss or liability caused by your failure to operate in accordance with this Agreement or any rules we publish from time to time;
+(2) You fail to provide us with the correct contact information and fail to receive any loss or liability caused by our relevant notices in a timely manner;
+(3) Any other loss or liability caused by your own reasons.
+
+
+X. Protection of intellectual property rights
+1. All content used in the process of providing services to you, including but not limited to any text, images, videos, charts, software, algorithms and other materials are owned by us or other specially indicated rights holders. We and the corresponding rights holders do not grant you any other rights to the above information and content through this agreement. You may not publicly publish, transmit, reproduce or otherwise use us in any form to any third party unless with the prior written consent of the corresponding rights holder
+Some or all of the information provided may not alter, obscure or delete any attributions, trademarks, copyright notices and/or other rights notices.
+2. It is your obligation to respect intellectual property rights. If you violate it and cause losses to us or the corresponding rights holder, you shall be liable for damages.
+
+
+11. About the use of minors
+If you are a minor user and wish to use the English translation APP, please obtain the consent of your guardian and use it under the guidance and supervision of your guardian. In addition, your guardian is responsible for helping you correctly understand the contents of this agreement, the "English Translation APP Privacy Policy" and other relevant legal documents, so as to guide you to use the English translation APP correctly.
+
+
+12. Notification of Infringing Content and Notification of Non-infringement
+1. In addition to the terms of this agreement, in order to protect intellectual property rights and other legitimate interests, if any individual or organization finds that a user has violated its legal rights or interests through the use of our services, any of the above individuals or organizations (hereinafter referred to as "complaints" “Party”) must submit an infringement notice to us in writing, and the right holder must sign it personally, and if it is an institution, the official seal of the institution must be affixed. Infringement notices should include the following:
+(1) The real identity information and detailed contact information of the complaining party, including name, address, telephone number and email address, together with a photocopy of a valid identification document, such as an ID card, passport (individual), or a document establishing an institution A copy of the business license (organization);
+(2) The specific name and network address of the allegedly infringing information;
+(3) Materials that can preliminarily prove the infringement, including but not limited to the ownership certificate that the right holder has trademark rights, copyrights or other rights that can be exercised in accordance with the law;
+(4) Include the following statement in the infringement notice: "(i) I am the true owner of the allegedly infringing content; (ii) I declare that the content in the infringement notice is true and accurate; and (iii) I confirm that if this infringement notice The statement in this article is untrue and accurate, and I will bear the corresponding legal responsibility."
+2. If we remove the content or link related to you according to the infringement notice, you can submit a non-infringement notice to us in writing with your own signature. If you are an institution, you need to affix the official seal of the institution. A notice of non-infringement shall include the following:
+(1) Your real identity information and detailed contact information, including name, address, phone number, and email address, with a photocopy of a valid identity document, such as an ID card, passport (individual), or institution establishment certificate A copy of the business license (organization);
+(2) The specific name and network address of the information removed by us;
+(3) Materials that can preliminarily prove non-infringement, including but not limited to ownership certificates of trademark rights, copyrights or other legally enforceable rights to the allegedly infringing content;
+(4) Include the following statement in the notice of non-infringement: "(i) I am the true owner of the alleged allegedly infringing content; (ii) I have the right to provide or distribute the alleged allegedly infringing content, and I declare that in this notice and (iii) I confirm that if the statement in this notice is not true and accurate, I will bear the corresponding legal responsibility".
+3. For the relevant information collected in the infringement notice and non-infringement notice procedures, we will strictly abide by the provisions of personal information protection and only use it for the purpose of dealing with infringement, and unless otherwise provided by law, in order to use it for possible litigation disputes. , we will delete the above information in time after the expiration of the statute of limitations.
+
+
+13. Commercial activities
+You understand and agree that we can conduct the following commercial activities in the products or services we provide: send you commercial advertisements or other information about us or third parties through English translation APP, website, mobile phone text message, email or other legal means relevant business information.
+We especially remind you that if the push information you receive is about a third party rather than us, you should judge the authenticity of the content and be responsible for your own judgment. Except as expressly provided by law, we are not responsible for any loss or damage you suffer as a result of the content of such information.
+
+
+14. Others
+1. If any provision of this Agreement is partially or wholly invalid or unenforceable for any reason, the remaining provisions of this Agreement shall remain valid and binding, and you and we shall use our best endeavours to make the original intention set by the provision. be realized.
+2. The validity, interpretation, modification, execution and dispute resolution of this Agreement shall be governed by the laws of the People's Republic of China.
+3. Any disputes or disputes between users and us arising from this agreement shall be resolved through friendly negotiation by both parties; if the negotiation fails, either party may file a lawsuit with the people's court with jurisdiction in our location.
+
+
